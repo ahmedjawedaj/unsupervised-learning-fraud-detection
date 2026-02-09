@@ -1,5 +1,7 @@
 # Unsupervised Learning: Credit Card Fraud Detection
 
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/ahmedjawed/creditscardfrauddataset)
+
 Demonstration of unsupervised machine learning techniques for both image segmentation and fraud detection.
 
 ## Project Overview
@@ -19,7 +21,7 @@ This project explores unsupervised learning algorithms through two practical app
 
 ## Dataset
 
-The project uses the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) which contains transactions made by European cardholders. The dataset is highly imbalanced, with only 0.17% of transactions being fraudulent.
+The project uses the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/ahmedjawed/creditscardfrauddataset) which contains transactions made by European cardholders. The dataset is highly imbalanced, with only 0.17% of transactions being fraudulent.
 
 **Note:** Due to the large size (~150MB), the dataset file (`creditcard.csv`) is not included in this repository. Please download it from Kaggle.
 
